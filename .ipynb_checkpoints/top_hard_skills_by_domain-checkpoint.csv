@@ -1,0 +1,20 @@
+Domain,Top 1 Hard Skill,Top 2 Hard Skill,Top 3 Hard Skill,Top 4 Hard Skill,Top 5 Hard Skill,Top 6 Hard Skill,Top 7 Hard Skill,Top 8 Hard Skill,Top 9 Hard Skill,Top 10 Hard Skill
+Other,Analytics,SQL (Programming Language),Python (Programming Language),Tooling,Dashboard,Quantitative Data Analysis,Minimum Data Set,Statistics,Dataset,R (Programming Language)
+Data Governance Analyst,Data Governance,Analytics,Data Quality,Tooling,SQL (Programming Language),Data Management,Survey Data Analysis,Industrialization,Customer Data Integration,Minimum Data Set
+Data Engineers,Analytics,Data Engineering,Tooling,SQL (Programming Language),Python (Programming Language),Extract Transform Load (ETL),Computer Science,Data Modeling,Industrialization,Amazon Data Pipeline
+BI Data Analysts,Analytics,Business Intelligence,SQL (Programming Language),Tooling,Dashboard,Tableau (Business Intelligence Software),Data Visualization,Power BI,Survey Data Analysis,Minimum Data Set
+Marketing Data Analysts,Analytics,Tooling,SQL (Programming Language),Dashboard,Data Visualization,Tableau (Business Intelligence Software),Market Data,Industrialization,Additives,Personalization
+Healthcare Data Analysts,Analytics,SQL (Programming Language),Tooling,Survey Data Analysis,Claims Processing,Coloring,Accessioning,Statistics,Industrialization,Personalization
+Operations Data Analysts,Analytics,Tooling,SQL (Programming Language),Survey Data Analysis,Dashboard,Data Visualization,Industrialization,Additives,Accessioning,Coloring
+Technical Data Analysts,Analytics,SQL (Programming Language),Tooling,Survey Data Analysis,Minimum Data Set,Dashboard,Computer Science,Tableau (Business Intelligence Software),Python (Programming Language),Data Visualization
+Financial Data Analysts,Analytics,Finance,SQL (Programming Language),Tooling,Accounting,Survey Data Analysis,Accessioning,Industrialization,Personalization,Financial Data
+Data Scientists,Analytics,Data Science,Python (Programming Language),Tooling,Machine Learning,SQL (Programming Language),Statistics,Industrialization,R (Programming Language),Computer Science
+Business Data Analysts,Analytics,Tooling,Industrialization,SQL (Programming Language),Commercialization,Coloring,Dashboard,Minimum Data Set,Tableau (Business Intelligence Software),Python (Programming Language)
+Google Analytics expert,Analytics,Google Analytics,Tooling,Dashboard,Tracking (Commercial Airline Flight),SQL (Programming Language),Google Tag Manager,Data Visualization,Tableau (Business Intelligence Software),Accounting
+GIS Data Analysts,Analytics,ArcGIS (GIS Software),Tooling,Additives,Survey Data Analysis,SQL (Programming Language),Limiter,Industrialization,Python (Programming Language),Mapping
+Qualitative Data Analysts,Analytics,Tooling,Minimum Data Set,Quantitative Data Analysis,Data Visualization,Survey Data Analysis,SQL (Programming Language),Data Analysis,Statistics,Dashboard
+Risk Analysts,Analytics,SQL (Programming Language),Tooling,Risk Management,Python (Programming Language),Minimum Data Set,Survey Data Analysis,Statistics,Industrialization,Banking
+Excel expert,Analytics,SQL (Programming Language),Tooling,Minimum Data Set,Dashboard,Tableau (Business Intelligence Software),Survey Data Analysis,Statistics,Quantitative Data Analysis,Python (Programming Language)
+HR Data Analysts,Analytics,SQL (Programming Language),Tooling,Dashboard,Data Visualization,Human Resources Information System (HRIS),Minimum Data Set,Additives,Personalization,Industrialization
+Supply Chain Data Analysts,Analytics,Supply Chain,Logistics,Tooling,Dashboard,SQL (Programming Language),Industrialization,Additives,Tableau (Business Intelligence Software),Python (Programming Language)
+Quality Data Analysts,Data Quality,Analytics,Tooling,SQL (Programming Language),Dashboard,Survey Data Analysis,Quality Improvement,Data Analysis,Root Cause Analysis,Coloring
